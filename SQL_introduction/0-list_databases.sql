@@ -1,5 +1,5 @@
 --Show list of available databases
-show databases;
-SELECT schema_name from sys_schema.schemata; 
+SHOW DATABASES;
+SELECT schema_name FROM sys_schema.schemata; 
 
 
