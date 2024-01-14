@@ -1,4 +1,4 @@
-# Show list of available databases
+--Show list
 SHOW DATABASES;
 
 
