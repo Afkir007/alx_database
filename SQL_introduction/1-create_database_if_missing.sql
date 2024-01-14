@@ -1,3 +1,2 @@
--- select list
-SHOW DATABASES;
-SELECT schema_name FROM hbtn_0c_0_schema.schemata; 
+-- create database 
+CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
