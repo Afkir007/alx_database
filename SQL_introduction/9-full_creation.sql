@@ -1,11 +1,12 @@
 -- table creation
-CREATE TABLE IF NOT EXISTS second_table(
+ CREATE TABLE IF NOT EXISTS second_table(
     id INT PRIMARY KEY,
     name VARCHAR(256),
     score INT;
 );
+
 -- value insertion 
-INSERT INTO second_table (id,name,score) VALUES(
+ INSERT INTO second_table (id,name,score) VALUES(
     (1, "John", 10),
     (2, "Alex", 3),
     (3,"Bob",14),
