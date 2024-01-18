@@ -1,7 +1,7 @@
 -- Description of table
 CREATE TABLE users (
-  id INT,
-  name VARCHAR(256)
-  email VARCHAR(100)
+  id INT(888),
+  name VARCHAR(128)
+  date (2/2/2023)
   age INT
 );
