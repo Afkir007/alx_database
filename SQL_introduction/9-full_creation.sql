@@ -2,7 +2,7 @@
  CREATE TABLE IF NOT EXISTS second_table(
     id INT PRIMARY KEY,
     name VARCHAR(256),
-    score INT;
+    score INT
 );
 
 -- value insertion 
@@ -10,4 +10,5 @@
     (1, "John", 10),
     (2, "Alex", 3),
     (3,"Bob",14),
-    (4,"George",8);
+    (4,"George" ,8)
+    );
